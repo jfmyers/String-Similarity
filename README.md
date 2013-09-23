@@ -24,6 +24,7 @@ Strings:
 Character Pairs:
 <br>
 `s1` = "fi", "in", "na", "an", "nc", "ci", "ia", "al"
+<br>
 `s2` = "fi", "in", "na", "an", "nc", "ce"
 <br>
 <br>
