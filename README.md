@@ -28,5 +28,4 @@ Character Pairs:
 `s2` = "fi", "in", "na", "an", "nc", "ce"
 <br>
 <br>
-similarity(s1, s2) = `(2 * 5) / (8 + 6)`
-similarity = 0.7142
+similarity(s1, s2) = `(2 * 5) / (8 + 6)` = 0.7142
