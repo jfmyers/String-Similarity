@@ -34,13 +34,26 @@ ____
 <strong>In Python:</strong>
 <br>
 Include wordSim.py and charPair.py in your directory</li>
-<br>
 ```python
   from wordSim import similarity
+  
   string1 = "Financial"
   string2 = "Finance"
-  sim = similarity(string1, string2)
+  sim = similarity(string1, string2).get_sim()
+  
   print sim
   >> 0.7142
 ```
-</ol>
+<strong>In PHP:</strong>
+<br>
+Include wordSim.php in your directory</li>
+```php
+  include('/wordSim.php');
+  
+  $string1 = "Financial";
+  $string2 = "Finance";
+  $sim = Similarity::calculate($string1, $string2);
+  
+  echo $sim;
+  >> 0.7142
+```
