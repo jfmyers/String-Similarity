@@ -29,3 +29,18 @@ Character Pairs:
 <br>
 <br>
 similarity(s1, s2) = `(2 * 5) / (8 + 6)` = 0.7142
+
+____
+<strong>In Python:</strong>
+<br>
+Include wordSim.py and charPair.py in your directory</li>
+<br>
+```python
+  from wordSim import similarity
+  string1 = "Financial"
+  string2 = "Finance"
+  sim = similarity(string1, string2)
+  print sim
+  >> 0.7142
+```
+</ol>
