@@ -57,3 +57,6 @@ Include wordSim.php in your directory</li>
   echo $sim;
   >> 0.7142
 ```
+<strong>In RUBY:</strong>
+<br>
+Coming soon...
