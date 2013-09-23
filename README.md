@@ -33,7 +33,7 @@ similarity(s1, s2) = `(2 * 5) / (8 + 6)` = 0.7142
 ____
 <strong>In Python:</strong>
 <br>
-Include wordSim.py and charPair.py in your directory</li>
+Include wordSim.py and charPair.py in your directory.
 ```python
   from wordSim import similarity
   
@@ -46,7 +46,7 @@ Include wordSim.py and charPair.py in your directory</li>
 ```
 <strong>In PHP:</strong>
 <br>
-Include wordSim.php in your directory</li>
+Include wordSim.php in your directory.
 ```php
   include('/wordSim.php');
   
